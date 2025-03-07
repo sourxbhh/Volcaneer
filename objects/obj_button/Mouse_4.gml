@@ -4,3 +4,5 @@ if (button_type == "play") {
 } else if (button_type == "quit") {
     game_end();
 }
+pressed = true
+
