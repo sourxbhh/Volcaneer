@@ -23,7 +23,7 @@
   ],
   "ResourceOrderSettings":[
     {"name":"obj_building","order":5,"path":"objects/obj_building/obj_building.yy",},
-    {"name":"obj_button","order":4,"path":"objects/obj_button/obj_button.yy",},
+    {"name":"obj_upgrade_button","order":4,"path":"objects/obj_upgrade_button/obj_upgrade_button.yy",},
     {"name":"obj_enemy1","order":1,"path":"objects/obj_enemy1/obj_enemy1.yy",},
     {"name":"obj_enemy2","order":6,"path":"objects/obj_enemy2/obj_enemy2.yy",},
     {"name":"obj_enemy3","order":7,"path":"objects/obj_enemy3/obj_enemy3.yy",},
@@ -43,5 +43,14 @@
     {"name":"spr_turret","order":1,"path":"sprites/spr_turret/spr_turret.yy",},
     {"name":"spr_uiBackground2","order":2,"path":"sprites/spr_uiBackground2/spr_uiBackground2.yy",},
     {"name":"spr_upgrade","order":1,"path":"sprites/spr_upgrade/spr_upgrade.yy",},
+    {"name":"obj_credits","order":4,"path":"objects/obj_credits/obj_credits.yy",},
+    {"name":"obj_menu_controller","order":1,"path":"objects/obj_menu_controller/obj_menu_controller.yy",},
+    {"name":"obj_play_button","order":2,"path":"objects/obj_play_button/obj_play_button.yy",},
+    {"name":"obj_quit_button","order":3,"path":"objects/obj_quit_button/obj_quit_button.yy",},
+    {"name":"End","order":2,"path":"rooms/End/End.yy",},
+    {"name":"Game","order":1,"path":"rooms/Game/Game.yy",},
+    {"name":"background","order":2,"path":"sprites/background/background.yy",},
+    {"name":"gmae_demo_bg","order":3,"path":"sprites/gmae_demo_bg/gmae_demo_bg.yy",},
+    {"name":"spr_button_exit","order":1,"path":"sprites/spr_button_exit/spr_button_exit.yy",},
   ],
 }
